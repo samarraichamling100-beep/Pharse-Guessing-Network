@@ -23,3 +23,4 @@ the pharse.Build as a project to learn weight,bias and training loops.I listed w
 4. when all letters is correct it stops and prints it at last
 
 ## Demo video
+<video src="C:\Users\hp\Videos\Captures\demo.mp4" width="100%" controls></video>
