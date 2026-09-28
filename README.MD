@@ -23,3 +23,4 @@ the pharse.Build as a project to learn weight,bias and training loops.I listed w
 4. when all letters is correct it stops and prints it at last
 
 ## Demo video
+<video src="https://github.com/samarraichamling100-beep/Pharse-Guessing-Network/raw/main/src/Neural-network-demo.mp4" controls width="600"></video>
